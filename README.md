@@ -5,7 +5,7 @@ This is a simple project to practice DOM manipulation using JavaScript. It allow
 - You can view a live demo of the project here.
 
 ## Installation
-- Clone the repository: git clone https://github.com/yourusername/profile-scroller.git
+- Clone the repository: git clone https://github.com/ticoniq/Profile-Scroller.git
 - Open index.html in your web browser.
 
 ## Usage
